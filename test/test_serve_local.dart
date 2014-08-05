@@ -1,4 +1,4 @@
-import '../src/static.dart';
+import '../lib/static.dart';
 import 'dart:io';
 
 void main() {

@@ -18,8 +18,8 @@ import 'dart:io';
 import 'dart:async';
 import 'package:mime/mime.dart';
 
-part 'lib/static.dart';
-part 'lib/static_error.dart';
-part 'lib/alias_table.dart';
-part 'lib/project_static.dart';
-part 'lib/folder_static.dart';
+part 'src/static.dart';
+part 'src/static_error.dart';
+part 'src/alias_table.dart';
+part 'src/project_static.dart';
+part 'src/folder_static.dart';

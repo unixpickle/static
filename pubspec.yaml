@@ -1,0 +1,7 @@
+name: static
+version: 0.0.1
+author: Alex Nichol <unixpickle@gmail.com>
+description: Serve static files from your Dart project.
+homepage: http://github.com/unixpickle/static
+dependencies:
+  mime: '>=0.9.0 <0.10.0'
